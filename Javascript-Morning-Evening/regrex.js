@@ -40,9 +40,9 @@ if(flag==0)
   console.log("not found");
 }
 }
-find_index("this is a cat");
-find_index("lion is king of jungle");
-find_index("this is abbbc");
-find_index("i am vijaya");
+find_index("this is a cat"); //10
+find_index("lion is king of jungle"); //0
+find_index("this is abbbc"); //8
+find_index("i am vijaya");//not found
 
 

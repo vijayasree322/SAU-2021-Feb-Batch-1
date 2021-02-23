@@ -33,7 +33,7 @@ public class SerializeEmployee {
 
     public static void main(String[] args) {
         Employee object = new Employee("VijayaSree", 20, 2, "1000",12);
-        String filename = "ananth.txt";
+        String filename = "vijaya.txt";
 
         try {
 
